@@ -21,6 +21,7 @@ This is the biggest update since I have release the first address book!
  ## Commonly Asked Questions?
   - How do I run the broweser extension?
     - If you would like to run this extension currently the only way is to download it from the releases tab and load it manually. I am trying to get this extension approved on the chrome and firefox webstore. Opera might come at a later date!
+    - The extension has been aproved for the firefox web store! Download here: https://addons.mozilla.org/en-US/firefox/addon/address-book-ui/
     
  - What operating systems are supported?
    - Any version of chrome, chromium, or firefox based browser that allows you to install extenstions
